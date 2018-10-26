@@ -7,6 +7,7 @@
     "content": "CC­BY­NC­SA 4.0"
   },
   "dependencies": {
+    "gulp": "^3.9.1",
     "jquery": "^3.1.1",
     "popper.js": "^1.14.3",
     "startbootstrap-stylish-portfolio": "^5.0.1"
