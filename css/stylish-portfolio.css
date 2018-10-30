@@ -341,8 +341,8 @@ a:hover, a:focus, a:active {
 }
 
 .btn-secondary {
-  background-color: #645c5e !important;
-  border-color: #645c5e !important;
+  background-color: #2b2b2d !important;
+  border-color: #2b2b2d !important;
   color: #fff !important;
 }
 
@@ -370,5 +370,5 @@ a:hover, a:focus, a:active {
 }
 
 .text-secondary {
-  color: #645c5e !important;
+  color: #2b2b2d !important;
 }
