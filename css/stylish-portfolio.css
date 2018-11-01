@@ -90,8 +90,8 @@ h6 {
   height: auto;
   padding-top: 8rem;
   padding-bottom: 8rem;
-  background: -webkit-gradient(linear, left top, right top, from(rgba(255, 255, 255, 0.1)), to(rgba(255, 255, 255, 0.1))), url("../img/autechre_draft_inner.jpg");
-  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/autechre_draft_inner.jpg");
+  background: -webkit-gradient(linear, left top, right top, from(rgba(255, 255, 255, 0.1)), to(rgba(255, 255, 255, 0.1))), url("../img/Departed41.jpg");
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/Departed41.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -123,7 +123,7 @@ h6 {
   transition: all 0.4s ease 0s;
   -webkit-transform: translateX(250px);
   transform: translateX(250px);
-  background: #2b2b2d;
+  background: #212529;
   border-left: 1px solid rgba(255, 255, 255, 0.1);
 }
 
@@ -203,7 +203,7 @@ h6 {
 
 .service-icon {
   background-color: #fff;
-  color: #2b2b2d;
+  color: #212529;
   height: 7rem;
   width: 7rem;
   display: block;
@@ -309,7 +309,7 @@ footer.footer .social-link {
   width: 4rem;
   line-height: 4.3rem;
   font-size: 1.5rem;
-  background-color: #2b2b2d;
+  background-color: #212529;
   -webkit-transition: background-color 0.15s ease-in-out;
   transition: background-color 0.15s ease-in-out;
   -webkit-box-shadow: 0 3px 3px 0 rgba(0, 0, 0, 0.1);
@@ -322,7 +322,7 @@ footer.footer .social-link:hover {
 }
 
 a {
-  color: #2b2b2d;
+  color: #212529;
 }
 
 a:hover, a:focus, a:active {
@@ -330,8 +330,8 @@ a:hover, a:focus, a:active {
 }
 
 .btn-primary {
-  background-color: #2b2b2d !important;
-  border-color: #2b2b2d !important;
+  background-color: #212529 !important;
+  border-color: #212529 !important;
   color: #fff !important;
 }
 
@@ -341,8 +341,8 @@ a:hover, a:focus, a:active {
 }
 
 .btn-secondary {
-  background-color: #2b2b2d !important;
-  border-color: #2b2b2d !important;
+  background-color: #212529 !important;
+  border-color: #212529 !important;
   color: #fff !important;
 }
 
@@ -362,13 +362,13 @@ a:hover, a:focus, a:active {
 }
 
 .bg-primary {
-  background-color: #2b2b2d !important;
+  background-color: #212529 !important;
 }
 
 .text-primary {
-  color: #2b2b2d !important;
+  color: #212529 !important;
 }
 
 .text-secondary {
-  color: #2b2b2d !important;
+  color: #212529 !important;
 }
